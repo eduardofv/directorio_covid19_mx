@@ -10,7 +10,7 @@
 - [Proyecto en git para extraer los datos de los archivos pdf oficiales, hacerlos manejables y guardar un historico de manera automática](https://github.com/covidctdmx/covid_ctd_mx) de [@covidctdmx](https://twitter.com/covidctdmx)
 - [Serendipia](https://serendipia.digital/2020/03/datos-abiertos-sobre-casos-de-coronavirus-covid-19-en-mexico/) almacena datos fuente y procesados
 
-_Para agregar nuevos registros o hacer correcciones favor de abrir un [pull request](https://github.com/eduardofv/directorio_covid19_mx/pulls) o un [issue](https://github.com/eduardofv/directorio_covid19_mx/issues)_
+_Para agregar nuevos registros o hacer correcciones favor de abrir un [pull request](https://github.com/eduardofv/directorio_covid19_mx/pulls) o un [issue](https://github.com/eduardofv/directorio_covid19_mx/issues). [Repositorio](https://github.com/eduardofv/directorio_covid19_mx)_
 
 ## Visualizaciones y análisis
 
