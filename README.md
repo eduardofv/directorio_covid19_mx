@@ -16,6 +16,8 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 
 - [Twitter de @rafaelprietoc](https://twitter.com/rafaelprietoc) cin excelentes análisis
 - [Covidatos de Eli Parra](https://covidatos.mx/), muy buena [hoja de cálculo](https://docs.google.com/spreadsheets/d/1ihdwd-YY5h_wCkaaKVK0P70gjhxxRlLuNLYPQeJwrq8/edit?usp=sharing)
+- [covid19mexico.github.io](https://covid19mexico.github.io/) Herramientas númericas y visuales para seguir el desarrollo de la pandemia en México
+- [mapacoronavirusmexico.com](https://mapacoronavirusmexico.com/) Mapa y dashboard de casos en México
 
 ## Fuentes oficiales
  
