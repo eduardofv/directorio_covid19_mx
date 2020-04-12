@@ -4,7 +4,7 @@
 
 - El equipo de @guzmart captura los datos oficiales del reporte diario en [este repositorio](https://github.com/guzmart/covid19_mex)
 - [Datos procesados de la fuente original](https://github.com/carranco-sga/Mexico-COVID-19) por @carranco-sga
-- [Datos extraídos del mapa en formato de series de tiempo](https://github.com/eduardofv/covid) por @eduardofv
+- [Datos extraídos del mapa en formato de series de tiempo (csv)](https://github.com/eduardofv/covid) por @eduardofv (mantengo este directorio)
 - [Herramienta para obtener datos recientes sobre la situación de COVID19 en México.](https://wallyqs.github.io/covid19mx/) y su [repositorio](https://github.com/wallyqs/covid19mx) por @wallysqs
 - Series de tiempo en el [repositorio](https://github.com/mariorz/covid19-mx-time-series) de @mariorz
 - [Proyecto en git para extraer los datos de los archivos pdf oficiales, hacerlos manejables y guardar un historico de manera automática](https://github.com/covidctdmx/covid_ctd_mx) de [@covidctdmx](https://twitter.com/covidctdmx)
