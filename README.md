@@ -34,7 +34,7 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 ## Otros recursos interesantes
 
 - [Excelentes gráficas del Financial Times](https://www.ft.com/coronavirus-latest)
-- [Covidtrend con la gráfica de trayectorias de Erich Reich y Aatish Bathia](https://aatishb.com/covidtrends/)
+- [Covidtrend con la gráfica de trayectorias de Henry Reich y Aatish Bathia](https://aatishb.com/covidtrends/)
 - [BNO News](https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/)
 
 # ¿Por qué es importante todo este trabajo?
