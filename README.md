@@ -9,7 +9,7 @@
 - Series de tiempo en el [repositorio](https://github.com/mariorz/covid19-mx-time-series) de @mariorz
 - [Proyecto en git para extraer los datos de los archivos pdf oficiales, hacerlos manejables y guardar un historico de manera automática](https://github.com/covidctdmx/covid_ctd_mx) de [@covidctdmx](https://twitter.com/covidctdmx)
 - [Serendipia](https://serendipia.digital/2020/03/datos-abiertos-sobre-casos-de-coronavirus-covid-19-en-mexico/) almacena datos fuente y procesados
-- [Covidmex.live/explore](https://covidmex.live/explore) tiene los datos de Serendipia en formato CSV, JSON y MySQL 
+- [Covidmex.live/explore](https://covidmex.live/explore) procesan y almacenan los datos oficiles y permiten descargarlos en CSV, JSON y MySQL 
 
 _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull request](https://github.com/eduardofv/directorio_covid19_mx/pulls) o un [issue](https://github.com/eduardofv/directorio_covid19_mx/issues). [Repositorio](https://github.com/eduardofv/directorio_covid19_mx)_
 
@@ -20,7 +20,7 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [covid19mexico.github.io](https://covid19mexico.github.io/) Herramientas númericas y visuales para seguir el desarrollo de la pandemia en México
 - [mapacoronavirusmexico.com](https://mapacoronavirusmexico.com/) Mapa y dashboard de casos en México
 - [https://covid19enmexico.com/](https://covid19enmexico.com/) Dashboard donde agregan datos publicados por órganos oficiales de los estados a lo largo del día, por lo que puede haber diferencias con los datos de Secretaría de Salud.
-- [Covidmex.live](https://covidmex.live/) sumariza y comparte los datos de Serendipia. [Explore](https://covidmex.live/explore) permite filtrar los datos del comunicado diario
+- [Covidmex.live](https://covidmex.live/) agregan los datos oficiales y en [Explore](https://covidmex.live/explore) permite filtrar los datos del comunicado diario
 - [guzmanlev](https://sites.google.com/site/guzmanlev/covid19) Visualizaciones y mapas incluyendo Latinoamérica
 
 ## Fuentes oficiales
