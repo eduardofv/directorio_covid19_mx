@@ -25,14 +25,15 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [Sistema Nacional de Vigilancia Epidemiológica (sinave)](https://ncov.sinave.gob.mx/)
 - [Mapa de Covid-19 en Méixco](https://ncov.sinave.gob.mx/mapa.aspx)
 
-## Otras fuentes nacionales o internacionales reconocidas
+## Otras fuentes reconocidas
 
 - [Datos de Johns Hopkins](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 
 ## Otros recursos interesantes
 
-- https://aatishb.com/covidtrends/
-- https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/
+- [Excelentes gráficas del Financial Times](https://www.ft.com/coronavirus-latest)
+- [Covidtrend con la gráfica de trayectorias de Erich Reich y Aatish Bathia](https://aatishb.com/covidtrends/)
+- [BNO News](https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/)
 
 # ¿Por qué es importante todo este trabajo?
 
