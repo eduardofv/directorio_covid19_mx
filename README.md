@@ -21,6 +21,7 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [mapacoronavirusmexico.com](https://mapacoronavirusmexico.com/) Mapa y dashboard de casos en México
 - [https://covid19enmexico.com/](https://covid19enmexico.com/) Dashboard donde agregan datos publicados por órganos oficiales de los estados a lo largo del día, por lo que puede haber diferencias con los datos de Secretaría de Salud.
 - [Covidmex.live](https://covidmex.live/) sumariza y comparte los datos de Serendipia. [Explore](https://covidmex.live/explore) permite filtrar los datos del comunicado diario
+- [guzmanlev](https://sites.google.com/site/guzmanlev/covid19) Visualizaciones y mapas incluyendo Latinoamérica
 
 ## Fuentes oficiales
  
