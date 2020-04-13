@@ -11,6 +11,7 @@
 - [Serendipia](https://serendipia.digital/2020/03/datos-abiertos-sobre-casos-de-coronavirus-covid-19-en-mexico/) almacena datos fuente y procesados
 - [Covidmex.live/explore](https://covidmex.live/explore) procesan y almacenan los datos oficiles y permiten descargarlos en CSV, JSON y MySQL 
 - [nataquinones/covid19_mexico](https://github.com/nataquinones/covid19_mexico) tiene almacenados los PDFs oficiales así como datos procesados y series de tiempo en TSV. También tiene un [resumen y visualizaciones](https://nataquinones.github.io/covid19_mexico/)
+- [Eduardo Rojas](https://www.kaggle.com/lalish99/covid19-mx) tiene este análsis en Kaggle y comparte un [dataset](https://www.kaggle.com/lalish99/covid19-mx?rvi=1) con datos oficiales 
 
 _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull request](https://github.com/eduardofv/directorio_covid19_mx/pulls) o un [issue](https://github.com/eduardofv/directorio_covid19_mx/issues). [Repositorio](https://github.com/eduardofv/directorio_covid19_mx)_
 
