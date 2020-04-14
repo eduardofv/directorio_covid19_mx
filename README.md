@@ -42,6 +42,7 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [Covidtrend con la gráfica de trayectorias de Henry Reich y Aatish Bhatia](https://aatishb.com/covidtrends/)
 - [BNO News](https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/)
 - [pypi.org/project/covidmx/](https://pypi.org/project/covidmx/) una librería de Python para acceder a los datos oficiales de @FedericoGarza
+- [Centro de información geográfica de la UNAM sobre COVID-19 en México](https://covid19.ciga.unam.mx/)
 
 # ¿Por qué es importante todo este trabajo?
 
