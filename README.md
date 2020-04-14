@@ -43,6 +43,8 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [BNO News](https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/)
 - [pypi.org/project/covidmx/](https://pypi.org/project/covidmx/) una librería de Python para acceder a los datos oficiales de @FedericoGarza
 - [Centro de información geográfica de la UNAM sobre COVID-19 en México](https://covid19.ciga.unam.mx/)
+- [Repositorio documental CONACYT sobre el Novel Coronavirus COVID-19](https://covid-19.conacyt.mx/jspui/) contiene 
+artículos científicos, informes técnicos especializados y materiales de consulta. Ver el [comunicado del CONACYT](https://www.conacyt.gob.mx/index.php/comunicados/1261-com-154-2020)
 
 # ¿Por qué es importante todo este trabajo?
 
