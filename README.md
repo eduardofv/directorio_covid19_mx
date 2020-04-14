@@ -41,6 +41,7 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [Excelentes gráficas del Financial Times](https://www.ft.com/coronavirus-latest)
 - [Covidtrend con la gráfica de trayectorias de Henry Reich y Aatish Bhatia](https://aatishb.com/covidtrends/)
 - [BNO News](https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/)
+- [pypi.org/project/covidmx/](https://pypi.org/project/covidmx/) una librería de Python para acceder a los datos oficiales de @FedericoGarza
 
 # ¿Por qué es importante todo este trabajo?
 
