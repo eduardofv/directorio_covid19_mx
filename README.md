@@ -32,10 +32,6 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [Sistema Nacional de Vigilancia Epidemiológica (sinave)](https://ncov.sinave.gob.mx/)
 - [Mapa de Covid-19 en México](https://ncov.sinave.gob.mx/mapa.aspx)
 
-## Otras fuentes reconocidas
-
-- [Datos de Johns Hopkins](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
-
 ## Otros recursos interesantes
 
 - [Excelentes gráficas del Financial Times](https://www.ft.com/coronavirus-latest)
@@ -45,6 +41,11 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [Centro de información geográfica de la UNAM sobre COVID-19 en México](https://covid19.ciga.unam.mx/)
 - [Repositorio documental CONACYT sobre el Novel Coronavirus COVID-19](https://covid-19.conacyt.mx/jspui/) contiene 
 artículos científicos, informes técnicos especializados y materiales de consulta. Ver el [comunicado del CONACYT](https://www.conacyt.gob.mx/index.php/comunicados/1261-com-154-2020)
+
+## Otras fuentes reconocidas
+
+- [Datos de Johns Hopkins](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+- [CORD-19 COVID-19 Open Research Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
 # ¿Por qué es importante todo este trabajo?
 
