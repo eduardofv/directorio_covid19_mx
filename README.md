@@ -31,8 +31,8 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
  
 - [Datos Abiertos - Dirección General de Epidemiología](https://www.gob.mx/salud/documentos/datos-abiertos-152127) Empezó a publicar lso datos desagregados de casos estudiados en formato abierto con diccionario de datos.
 - [Comunicado Técnico Diario](https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449)
-- [Sistema Nacional de Vigilancia Epidemiológica (sinave)](https://ncov.sinave.gob.mx/)
-- [Mapa de Covid-19 en México](https://ncov.sinave.gob.mx/mapa.aspx)
+- [Sistema Nacional de Vigilancia Epidemiológica (sinave)](https://covid19.sinave.gob.mx/)
+- [Mapa de Covid-19 en México](https://covid19.sinave.gob.mx/mapa.aspx)
 
 ## Otros recursos interesantes
 
