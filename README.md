@@ -27,6 +27,7 @@ _Para agregar nuevos registros o hacer correcciones favor de abrir un [pull requ
 - [guzmanlev](https://sites.google.com/site/guzmanlev/covid19) Visualizaciones y mapas incluyendo Latinoamérica
 - [mexicovid19.mx](http://mexicovid19.mx/index.html) de la Escuela de Gobierno y Transformación Pública del ITESM
 - [Coronamex](https://coronamex.github.io/) tiene análisis distintos muy interesantes.
+- [Proyecto.li](https://proyecto.li/) tiene análisis y visualizaciones basados en los datos publicados por los gobiernos estatales.
 
 ## Fuentes oficiales
  
